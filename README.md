@@ -3,7 +3,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/DamiAdesola/DamiAdesola)](https://badges.pufler.dev/visits/DamiAdesola/DamiAdesola)
 
 
-[![Header](https://raw.githubusercontent.com/DamiAdesola/DamiAdesola/master/logo.png "Header")](https://martinheinz.dev/)
+[![Header](https://raw.githubusercontent.com/DamiAdesola/DamiAdesola/master/logo.png "Header")]()
 
 
     
@@ -15,9 +15,9 @@
 
 * 🖥️  Cyber Security ➡️ Red Team
 
-* 📁 Microsoft Learn Student Ambassador [<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="30" height="15"/>](https://www.linkedin.com/in/adityapal1/) 
+* 📁 Microsoft Learn Student Ambassador [<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="30" height="15"/>](https://studentambassadors.microsoft.com/en-US/profile/101975) 
 
-* 🏫 Carleton University
+* 🏫 Carleton University [<img src="https://raw.githubusercontent.com/DamiAdesola/DamiAdesola/master/CU-logo.png" width="30" height="15"/>]()
 
 * 🏠 Ottawa, CA 
 
@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://github.com/DamiAdesola/DamiAdesola">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DamiAdesola&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DamiAdesola&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Dami's GitHub Stats" />
   </a>
   <a href="https://github.com/DamiAdesola/DamiAdesola">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamiAdesola&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />

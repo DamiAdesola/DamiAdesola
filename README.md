@@ -11,13 +11,15 @@
 
 
 
-*  💻 Software Developer  
+* 💻 Software Developer  
 
-*  🖥️  Cyber Security ➡️ Red Team
+* 🖥️  Cyber Security ➡️ Red Team
 
-* 🎧 Microsoft Learn Student Ambassador [<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="30" height="15"/>](https://www.linkedin.com/in/adityapal1/) 
-  
-*  🏠 Ottawa, CA 
+* 📁 Microsoft Learn Student Ambassador [<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="30" height="15"/>](https://www.linkedin.com/in/adityapal1/) 
+
+* 🏫 Carleton University
+
+* 🏠 Ottawa, CA 
 
 
  

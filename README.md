@@ -17,7 +17,7 @@
 
 * 📁 Microsoft Learn Student Ambassador [<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="30" height="15"/>](https://studentambassadors.microsoft.com/en-US/profile/101975) 
 
-* 🏫 Carleton University [<img src="https://raw.githubusercontent.com/DamiAdesola/DamiAdesola/master/CU-logo.png" width="30" height="15"/>]()
+* 🏫 Carleton University 
 
 * 🏠 Ottawa, CA 
 

@@ -1,7 +1,5 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/DamiAdesola/DamiAdesola/master/wave.gif" width="30px">
 
-[![Visits Badge](https://badges.pufler.dev/visits/DamiAdesola/DamiAdesola)](https://badges.pufler.dev/visits/DamiAdesola/DamiAdesola)
-
 
 [![Header](https://raw.githubusercontent.com/DamiAdesola/DamiAdesola/master/logo.png "Header")]()
 

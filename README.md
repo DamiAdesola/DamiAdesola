@@ -9,20 +9,9 @@
 
 
 
-* 💻 Software Developer  
+* 💻 Software Engineer
 
 * 🖥️ Cyber Security ➡️ Red Team
-
-* 📁 Microsoft Learn Student Ambassador [<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="30" height="15"/>](https://studentambassadors.microsoft.com/en-US/profile/101975) 
-
-* 🏫 Carleton University 
-
-* 🏠 Ottawa, CA 
-
-
- 
-
-  
 
 <h1 align="center"> 📊  GitHub Stats: </h1>
 
